@@ -11,3 +11,6 @@ c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatch
 c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.dll
 c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.pdb
 c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\battl\Documents\GitHub\AltCoinTrader-Watcher\AltCoinWatcher\AltCoinWatcher\bin\Debug\AltCoinWatcher.exe.config
+C:\Users\battl\Documents\GitHub\AltCoinTrader-Watcher\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.exe
+C:\Users\battl\Documents\GitHub\AltCoinTrader-Watcher\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.pdb

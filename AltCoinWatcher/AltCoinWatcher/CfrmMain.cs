@@ -29,6 +29,8 @@ namespace AltCoinWatcher
         private int RefreshTargetSeconds;
         private int RefreshSeconds;
 
+        private decimal BTCAbove;
+        private decimal BTCBelow;
         private decimal ETHAbove;
         private decimal ETHBelow;
 
