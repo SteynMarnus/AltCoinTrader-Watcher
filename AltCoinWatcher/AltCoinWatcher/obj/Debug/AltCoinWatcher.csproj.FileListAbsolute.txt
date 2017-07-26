@@ -1,0 +1,13 @@
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\AltCoinWatcher.exe.config
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\AltCoinWatcher.exe
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\AltCoinWatcher.pdb
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\CloudToolkitN6.dll
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.csprojResolveAssemblyReference.cache
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.CfrmMain.resources
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.Properties.Resources.resources
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.csproj.GenerateResource.Cache
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.exe
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\obj\Debug\AltCoinWatcher.pdb
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.dll
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.pdb
+c:\users\battl\documents\visual studio 2012\Projects\AltCoinWatcher\AltCoinWatcher\bin\Debug\Newtonsoft.Json.xml
